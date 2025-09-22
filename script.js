@@ -28,3 +28,8 @@ function addNotes() {
     fileList.reset();
     numOfFiles.reset();
 }
+
+
+
+
+
